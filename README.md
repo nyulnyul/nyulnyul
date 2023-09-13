@@ -37,6 +37,13 @@
         style="height : auto; margin-left : 15px; margin-right : 15px;"/>
 </a> 
 </div>
+<div align=center>
+	<img 
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyulnyul&layout=compact">
+	<br><br>
+	<img 
+		src="https://github-readme-stats.vercel.app/api?username=nyulnyul&show_icons=true">
+</div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-![](./profile-3d-contrib/profile-season-animate.svg)
+
+![](./profile-3d-contrib/profile-gitblock.svg)
