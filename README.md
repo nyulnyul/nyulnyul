@@ -23,7 +23,7 @@
 </div>
 <div align=center>
 	
-	<img src ="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white"/>
+<img src ="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-1E2A4E?style=flat&logo=intelliJ IDEA&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
